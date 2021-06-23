@@ -1,0 +1,9 @@
+Här började jag med att skapa den enkla layouten med en ruta för input-formuläret, samt rutan bredvid där låttexten hamnar. CSS-kunskaperna fick färskas upp lite, men annars var det inga problem. Sen kom jag till att testa APIet, och där fick jag inte det som nämns i uppgiftsbeskrivningen att fungera så jag tog mig friheten av att använda mig av Sebastians egna API som han använt sig av under lektioner.
+När jag sedan började skriva kod skrev jag lite i taget och testade sidan ofta. När jag testade såg jag vad som inte fungerade som jag ville och ändrade och lade till kod där det behövdes. Alla problem som uppstod löste jag ganska enkelt genom denna trail and error-metod.
+Designmässigt spanade jag på instagrams inloggningsformulär för att få inspiration till en enkel och tydlig design där det är tydligt när tex knappen är aktiv eller ej.
+
+Frågor:
+1: Hur kan du i din webbläsare se ifall din Javascript-kod lyckas göra en request mot API:et?
+  - Dels inga felmeddelandet från konsolen, men kan även se det i sources och network.
+2: Förklara hur man kan debugga Javascript.
+  - Det enklaste är via felmeddelanden från konsolen som sker vid syntaxiska fel. Vid logiska fel kan man ta hjälp av breakpoints.
