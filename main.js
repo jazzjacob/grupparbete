@@ -18,10 +18,8 @@ let songNameInputHasValue = false;
 
 artistNameInput.addEventListener('keyup', function(event) {
   if (artistNameInput.value) {
-    console.log('Has value');
     artistInputHasValue = true;
   } else {
-    console.log('No value here mate');
     artistInputHasValue = false;
     submitButton.style.backgroundColor = '#B5DDFF';
   }
